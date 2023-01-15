@@ -1,0 +1,8 @@
+C:\PROG1925\assigments\A5BAyala\bin\Debug\A5BAyala.exe.config
+C:\PROG1925\assigments\A5BAyala\bin\Debug\A5BAyala.exe
+C:\PROG1925\assigments\A5BAyala\bin\Debug\A5BAyala.pdb
+C:\PROG1925\assigments\A5BAyala\obj\Debug\A5BAyala.csproj.AssemblyReference.cache
+C:\PROG1925\assigments\A5BAyala\obj\Debug\A5BAyala.csproj.CoreCompileInputs.cache
+C:\PROG1925\assigments\A5BAyala\obj\Debug\A5BAyala.exe
+C:\PROG1925\assigments\A5BAyala\obj\Debug\A5BAyala.pdb
+C:\PROG1925\assigments\A5BAyala\obj\Debug\A5BAyala.csproj.SuggestedBindingRedirects.cache
